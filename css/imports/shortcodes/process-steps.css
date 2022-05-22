@@ -23,13 +23,13 @@
 }
 .process-steps li.active h5, .process-steps li.ui-tabs-active h5 {
   font-weight: 600;
-  color: #dc64c2;
+  color: #2EB8EA;
 }
 .process-steps li.active a, .process-steps li.ui-tabs-active a {
-  background-color: #dc64c2 !important;
+  background-color: #2EB8EA !important;
   color: #FFF;
   text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.2);
-  border-color: #dc64c2 !important;
+  border-color: #2EB8EA !important;
 }
 @media (min-width: 992px) {
   .process-steps li::before, .process-steps li::after {

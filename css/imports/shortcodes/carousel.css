@@ -278,7 +278,7 @@
 }
 
 .owl-carousel .owl-nav [class*=owl-]:hover {
-  background-color: #dc64c2 !important;
+  background-color: #2EB8EA !important;
   color: #fff !important;
   text-decoration: none;
 }
@@ -297,7 +297,7 @@
   height: 8px;
   margin: 30px 4px 0 4px;
   border-radius: 50%;
-  background-color: #dc64c2;
+  background-color: #2EB8EA;
   -webkit-transition: all .3s ease;
   -o-transition: all .3s ease;
   transition: all .3s ease;
@@ -394,7 +394,7 @@
 .owl-carousel .owl-dots .owl-dot {
   width: var(--owl-dots-sizes);
   height: var(--owl-dots-sizes);
-  background-color: #dc64c2;
+  background-color: #2EB8EA;
   margin-left: var(--owl-dots-gutters);
   margin-right: var(--owl-dots-gutters);
   transition: all .3s;
@@ -411,7 +411,7 @@
 .owl-carousel.owl-dots-border .owl-dots .owl-dot:not(.active) {
   opacity: 1;
   background-color: transparent;
-  border: 1px solid #dc64c2;
+  border: 1px solid #2EB8EA;
 }
 
 .owl-carousel.owl-dots-border .owl-dots .owl-dot.active {
@@ -524,7 +524,7 @@
 }
 
 .owl-carousel .owl-nav [class*=owl-]:hover {
-  background-color: #dc64c2 !important;
+  background-color: #2EB8EA !important;
 }
 
 .slider-element .owl-nav [class*=owl-],
