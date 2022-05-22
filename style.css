@@ -9048,7 +9048,7 @@ body:not(.device-touch) .button {
 .button.button-border {
 	border: 2px solid #444;
 	background-color: transparent;
-	color: #fff;
+	color: #b5edfc;
 	font-weight: 700;
 	text-shadow: none;
 }
@@ -9061,7 +9061,7 @@ body:not(.device-touch) .button {
 
 .button.button-border:not(.button-fill):hover {
 	background-color: #444;
-	color: #fff;
+	color: #FFF;
 	border-color: transparent !important;
 	text-shadow: 1px 1px 1px rgba(0,0,0,0.2);
 }
@@ -13619,7 +13619,7 @@ h3.titular-title { font-size: 2rem; }
 	font-weight: 700;
 	text-transform: uppercase;
 	letter-spacing: 1px;
-	color: #fff;
+	color: #b5edfc;
 }
 
 .emphasis-title h1,
